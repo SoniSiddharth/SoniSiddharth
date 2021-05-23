@@ -39,12 +39,18 @@
 
 ## GitHub Stats 📈
 
-![stats](https://github-readme-stats.vercel.app/api?username=SoniSiddharth&show_icons=true&locale=en)
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SoniSiddharth&show_icons=true&hide_border=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniSiddharth&exclude_repo=Digital,Python-Based-Automated-Verilog-Code-Generator-For-Arithmetic-Unit&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+<table>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=SoniSiddharth&show_icons=true&locale=en&layout=compact)
-
-[![Badge](https://cp-logo.vercel.app/codechef/siddharth_4096)]
-(https://www.codechef.com/users/siddharth_4096)
+[![Badge](https://cp-logo.vercel.app/codechef/siddharth_4096)](https://www.codechef.com/users/siddharth_4096)
 
 
 
