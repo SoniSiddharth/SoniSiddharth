@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siddharth
 
-- 🔭 I am Senior Undergraduate at IIT Gandhinagar pursuing B.Tech in Computer Science and Engineering
+- 🔭 I am a Senior Undergraduate student at IIT Gandhinagar pursuing B.Tech in Computer Science and Engineering
 - 👯 I am open to collaborate on Machine Learning projects and data science related algorithmic analysis 
 - 😄 I have a keen interest in Competitive Programming thus spend my free time at Codechef, Codeforces, and Leetcode
 - ⚡ Fun facts - I play chess 🎮 and watch TV shows on OTT platforms and sometimes do pencil drawings. 
